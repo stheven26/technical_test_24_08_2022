@@ -5,9 +5,10 @@ import (
 	"net/http"
 	"time"
 
+	"technical_test_24_08_2022/db"
+	"technical_test_24_08_2022/models"
+
 	"github.com/gin-gonic/gin"
-	"github.com/stheven26/db"
-	"github.com/stheven26/models"
 )
 
 type DataInput struct {

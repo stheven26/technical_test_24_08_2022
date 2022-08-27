@@ -1,9 +1,10 @@
 package db
 
 import (
-	"github.com/stheven26/models"
+	"technical_test_24_08_2022/models"
 
-	"github.com/stheven26/config"
+	"technical_test_24_08_2022/config"
+
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )

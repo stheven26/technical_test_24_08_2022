@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/stheven26/db"
+	"technical_test_24_08_2022/db"
 
-	"github.com/stheven26/routes"
+	"technical_test_24_08_2022/routes"
 )
 
 func main() {

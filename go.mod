@@ -1,4 +1,4 @@
-module github.com/stheven26
+module technical_test_24_08_2022
 
 go 1.18
 
